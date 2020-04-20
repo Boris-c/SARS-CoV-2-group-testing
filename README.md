@@ -19,7 +19,7 @@ April 18, USA: [Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Re
 
 April 14, India: [Group Testing for COVID-19: How to Stop Worrying and Test More](https://arxiv.org/abs/2004.06306)
 
-April 14, European: [Multi-Stage Group Testing Optimizes COVID-19 Mass Population Testing](https://www.medrxiv.org/content/10.1101/2020.04.10.20061176v1.full.pdf)
+April 14, Europe: [Multi-Stage Group Testing Optimizes COVID-19 Mass Population Testing](https://www.medrxiv.org/content/10.1101/2020.04.10.20061176v1.full.pdf)
 
 April 13, China: [Low-Cost and High-Throughput Testing of COVID-19 Viruses and Antibodies via Compressed Sensing: System Concepts and Computational Experiments](https://arxiv.org/pdf/2004.05759.pdf)
 
