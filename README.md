@@ -39,7 +39,7 @@ March 22, Germany: [Boosting test-efficiency by pooled testing strategies for SA
 
 
 ## Software
-April 7, USA: [binGroup2: Identification and Estimation using Group Testing](https://cran.r-project.org/web/packages/binGroup2/index.html)
+April 7, University of Nebraska-Lincoln: [binGroup2: Identification and Estimation using Group Testing](https://cran.r-project.org/web/packages/binGroup2/index.html)
 
 
 ## Media
