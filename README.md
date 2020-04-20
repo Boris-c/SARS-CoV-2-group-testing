@@ -1,14 +1,17 @@
 # SARS-CoV-2-group-testing
 Resources about group testing in the context of COVID-19 pandemic
 
+
 ## My Article
 March 25: [Group Method for Large-Scale Testing, Applicable to the COVID-19 Coronavirus, SARS-CoV-2](https://conforty.net/coronavirus-testing/sars-cov-2-pcr-testing.html)
+
 
 ## Wikipedia
 
 [Group Testing](https://en.wikipedia.org/wiki/Group_testing)
 
 [COVID-19 testing](https://en.wikipedia.org/wiki/COVID-19_testing) (paragraph on pool testing)
+
 
 ## Scientific Articles
 
@@ -33,6 +36,10 @@ March 30, Germany: [Pool-Testen von SARS-CoV-2 Proben erhöht die Testkapazität
 March 27, Israel: [Evaluation of COVID-19 RT-qPCR test in multi-sample pools](https://www.medrxiv.org/content/10.1101/2020.03.26.20039438v1.full.pdf?fbclid=IwAR05risJ59nXcuGW-3FvnTr_fW9GUHSsAXlzP2-8WFj__vEY6RTs5CCIw-8)
 
 March 22, Germany: [Boosting test-efficiency by pooled testing strategies for SARS-CoV-2](https://arxiv.org/abs/2003.09944)
+
+
+## Software
+April 7, USA: [binGroup2: Identification and Estimation using Group Testing](https://cran.r-project.org/web/packages/binGroup2/index.html)
 
 
 ## Media
