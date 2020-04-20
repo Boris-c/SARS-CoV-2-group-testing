@@ -58,8 +58,7 @@ April 19, Pakistan: [Winning the war against Covid-19](https://www.thenews.com.p
 
 April 20, India: [Bengal To Use Pool Testing, Rapid Antibody Method For COVID-19](https://www.ndtv.com/india-news/coronavirus-west-bengal-to-use-pool-testing-rapid-antibody-method-for-covid-19-2214608)
 
-April 17, India: [Covid-19 | Pool testing: Method, effectiveness, ICMR guidelines explained]
-(https://www.youtube.com/watch?v=oGfFTYklW8w)
+April 17, India: [Covid-19 | Pool testing: Method, effectiveness, ICMR guidelines explained](https://www.youtube.com/watch?v=oGfFTYklW8w)
 
 April 16, India: [Covid-19: Uttar Pradesh starts 'pool testing' as cases cross 770](https://www.youtube.com/watch?v=MScUZSsO9Mg)
 
