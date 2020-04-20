@@ -1,5 +1,5 @@
 # SARS-CoV-2-group-testing
-Resources about group testing in the context of COVID-19 pandemic
+Resources about group testing in the context of the COVID-19 pandemic
 
 
 ## My Article
