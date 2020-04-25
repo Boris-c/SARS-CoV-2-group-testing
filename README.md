@@ -15,6 +15,8 @@ March 25: [Group Method for Large-Scale Testing, Applicable to the COVID-19 Coro
 
 ## Scientific Articles
 
+April 24, Chile: [Optimization of group size in pool testing strategy for SARS‐CoV‐2: A simple mathematical model](https://doi.org/10.1002/jmv.25929)
+
 April 21, Korea: [Theoretical Bounds on Performance in Threshold Group Testing Schemes](https://www.mdpi.com/2227-7390%2F8%2F4%2F637%2Fpdf)
 
 April 20, Germany: [Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening](https://www.medrxiv.org/content/10.1101/2020.04.10.20061176v2)
@@ -31,6 +33,8 @@ April 11, USA: [Analysis and Applications of Adaptive Group Testing Methods for 
 
 April 6, USA: [Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
 
+April 1, France: [Group testing against Covid-19 (at p.32)](https://cepr.org/sites/default/files/news/CovidEconomics2.pdf)
+
 March 30, USA: [Evaluation of Group Testing for SARS-CoV-2 RNA](https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1)
 
 March 30, Germany: [Pool-Testen von SARS-CoV-2 Proben erhöht die Testkapazität weltweit um ein Vielfaches](https://aktuelles.uni-frankfurt.de/forschung/pool-testen-von-sars-cov-2-proben-erhoeht-die-testkapazitaet-weltweit-um-ein-vielfaches/)
@@ -39,12 +43,33 @@ March 27, Israel: [Evaluation of COVID-19 RT-qPCR test in multi-sample pools](ht
 
 March 22, Germany: [Boosting test-efficiency by pooled testing strategies for SARS-CoV-2](https://arxiv.org/abs/2003.09944)
 
+## Group Testing Research Resources
+University of Nebraska-Lincoln: [Chris Bilder's website](http://chrisbilder.com/grouptesting/)
+
+
 
 ## Software
+April 21, USA: [A Shiny App for Pooled Testing](https://bilder.shinyapps.io/PooledTesting/)
 April 7, University of Nebraska-Lincoln: [binGroup2: Identification and Estimation using Group Testing](https://cran.r-project.org/web/packages/binGroup2/index.html)
 
 
 ## Media
+
+April 24, USA: [Everybody in the Pool: Researchers Use Algorithms to Tackle the Coronavirus Test Shortage](https://spectrum.ieee.org/view-from-the-valley/the-institute/ieee-member-news/everybody-in-the-pool-algorithm-researchers-tackle-the-coronavirus-test-shortage)
+
+April 24, India: [Medical Body ICMR Proposed A Cost-Effective Pool Tests For Coronavirus](http://www.dailyaddaa.com/india-news/medical-body-icmr-proposed-a-cost-effective-pool-tests-for-coronavirus-4912057.html)
+
+April 24, India: [Coronavirus crisis: Centre allows Maharashtra to conduct pool testing](https://www.businesstoday.in/latest/trends/coronavirus-crisis-centre-allows-maharashtra-to-conduct-pool-testing-plasma-therapy/story/401955.html)
+
+April 24, Pakistan: [In a first, KP introduces novel ‘pool testing’ approach for Covid-19](https://www.dawn.com/news/1551865/in-a-first-kp-introduces-novel-pool-testing-approach-for-covid-19)
+
+April 22, USA: [UNL Statistics Professor Develops App For Group COVID-19 Testing](http://netnebraska.org/article/news/1217173/unl-statistics-professor-develops-app-group-covid-19-testing)
+
+April 21, University of Nebraska-Lincoln: [Statisticians advise lab, release app to optimize coronavirus testing](https://news.unl.edu/newsrooms/today/article/statisticians-advise-lab-release-app-to-optimize-coronavirus-testing/)
+
+April 21, USA: [Nebraska Public Health: Daily In-State COVID-19 Testing Capacity Tops 1,000](https://kneb.com/regional-news/nebraska-public-health-daily-in-state-covid-19-testing-capacity-tops-1000/)
+
+April 21, USA: [Statisticians advise lab, release app to optimize coronavirus testing](https://news.unl.edu/newsrooms/today/article/statisticians-advise-lab-release-app-to-optimize-coronavirus-testing/)
 
 April 20, India: [Explained: How pooled testing works, when it helps](https://indianexpress.com/article/explained/coronavirus-infection-how-pooled-testing-works-when-it-helps-6370001/)
 
@@ -69,6 +94,8 @@ April 16, Bloomberg: [The Weird Way That Virus Testing Is Just Like A Carbon Tax
 April 14, USA: [A Radical Testing Solution to Reopen the Economy—Now](https://chiefexecutive.net/a-radical-testing-solution-to-reopen-the-economy-now/)
 
 April 13, Economic Times: [Uttar Pradesh to start pool testing for Covid-19 to expedite process](https://economictimes.indiatimes.com/news/politics-and-nation/uttar-pradesh-to-start-pool-testing-for-covid-19-to-expedite-process/articleshow/75122742.cms?from=mdr)
+
+April 9, USA: [Increasing testing capacity for SARS-CoV-2 by pooling specimens](https://www.significancemagazine.com/science/651-increasing-testing-capacity-for-sars-cov-2-by-pooling-specimens)
 
 April 4, NY Times: [A German Exception? Why the Country’s Coronavirus Death Rate Is Low](https://www.nytimes.com/2020/04/04/world/europe/germany-coronavirus-death-rate.html)
 
