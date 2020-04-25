@@ -15,6 +15,10 @@ March 25: [Group Method for Large-Scale Testing, Applicable to the COVID-19 Coro
 
 ## Scientific Articles
 
+April 21, Korea: [Theoretical Bounds on Performance in Threshold Group Testing Schemes](https://www.mdpi.com/2227-7390%2F8%2F4%2F637%2Fpdf)
+
+April 20, Germany: [Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening](https://www.medrxiv.org/content/10.1101/2020.04.10.20061176v2)
+
 April 18, USA: [Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Resources](https://academic.oup.com/ajcp/article-pdf/doi/10.1093/ajcp/aqaa064/33101253/aqaa064.pdf)
 
 April 14, India: [Group Testing for COVID-19: How to Stop Worrying and Test More](https://arxiv.org/abs/2004.06306)
@@ -26,8 +30,6 @@ April 13, China: [Low-Cost and High-Throughput Testing of COVID-19 Viruses and A
 April 11, USA: [Analysis and Applications of Adaptive Group Testing Methods for COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.05.20050245v2.full.pdf)
 
 April 6, USA: [Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
-
-April 3, USA: [Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Resources](https://www.medrxiv.org/content/10.1101/2020.04.03.20050195v1.full.pdf)
 
 March 30, USA: [Evaluation of Group Testing for SARS-CoV-2 RNA](https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1)
 
