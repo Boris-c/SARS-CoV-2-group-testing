@@ -15,6 +15,8 @@ March 25: [Group Method for Large-Scale Testing, Applicable to the COVID-19 Coro
 
 ## Scientific Articles
 
+April 27, Russia: [Early detection of superspreaders by mass group pool testing can mitigate COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.22.20076166v1)
+
 April 24, Chile: [Optimization of group size in pool testing strategy for SARS‐CoV‐2: A simple mathematical model](https://doi.org/10.1002/jmv.25929)
 
 April 21, Korea: [Theoretical Bounds on Performance in Threshold Group Testing Schemes](https://www.mdpi.com/2227-7390%2F8%2F4%2F637%2Fpdf)
